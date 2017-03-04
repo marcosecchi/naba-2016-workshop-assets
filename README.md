@@ -37,3 +37,11 @@ All the assets have been created using [MagicaVoxel](https://voxel.codeplex.com/
 * 5 Floors
 * 7 Walls
 * 1 Wall Angle
+
+![MagicaVoxel Piano](http://www.marcosecchi.it/wp-content/uploads/2016/08/concerto_per_ai_04.png)
+
+![MagicaVoxel Vase](http://www.marcosecchi.it/wp-content/uploads/2016/08/concerto_per_ai_03.png)
+
+![MagicaVoxel Singer](http://www.marcosecchi.it/wp-content/uploads/2016/08/concerto_per_ai_02.png)
+
+![MagicaVoxel Instrument](http://www.marcosecchi.it/wp-content/uploads/2016/08/concerto_per_ai_01.png)
